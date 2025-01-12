@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @venkatchinta
-- 👀 I’m interested in Coding...
-- 🌱 I’m currently learning LLMs...
-- 💞️ I’m looking to collaborate on Mining..
-- 📫 How to reach me .. venkatchinta.net@gmail.com
+- Use this repo to track all reference information
 
 <!---
 venkatchinta/venkatchinta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
